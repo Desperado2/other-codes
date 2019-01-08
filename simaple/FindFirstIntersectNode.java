@@ -1,4 +1,4 @@
-package code_03;
+package code_03.simaple;
 
 public class FindFirstIntersectNode {
     public static class Node {
